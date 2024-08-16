@@ -17,11 +17,10 @@ SQL queries were:
 
 # TOOLS I USED
 For my deep dive into the Business analyst job market I harnessed the power of several key tools:
-- **SQL:** The backbone of my analysis, allowing SOL me to query the database and unearth critical insights.
-
+- **SQL:** The backbone of my analysis, allowing me to query the database and unearth critical insights.
 - **PostgresQL:** The chosen  database management system, ideal for handling the job posting data.
 - **visual Studio Code:** My go-to for databaseVisual management and executing SQL queries.
-- **Git & GitHub:** Essential for version control and sharing my SOL scripts and analysis. ensuring collaboration and project tracking.
+- **Git & GitHub:** Essential for version control and sharing my SQL scripts and analysis. ensuring collaboration and project tracking.
 
 
 # THE ANALYSIS
